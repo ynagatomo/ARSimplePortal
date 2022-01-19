@@ -11,7 +11,7 @@ import SwiftUI
 struct arsimplepotalApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ARPortalView()
         }
     }
 }

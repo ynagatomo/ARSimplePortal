@@ -1,0 +1,47 @@
+[
+  {
+    "libraryIdentifier" : "954a5921fabdbd8e826196e5b43caa35",
+    "format" : "model",
+    "displayName" : "simplePortal.usdz"
+  },
+  {
+    "libraryIdentifier" : "b290d417ce82c8775b6d0d647c44f7c6",
+    "format" : "model",
+    "displayName" : "simplePortal.usdz"
+  },
+  {
+    "libraryIdentifier" : "6d407a1a55f7cbd3ac16da9b6b5be013",
+    "format" : "model",
+    "displayName" : "simplePortal.usdz"
+  },
+  {
+    "libraryIdentifier" : "8585f5d4e4e5c011b213c36d93e433ef",
+    "format" : "model",
+    "displayName" : "simplePortal.usdz"
+  },
+  {
+    "libraryIdentifier" : "be7266a9ee206df11d8622e544cc540a",
+    "format" : "model",
+    "displayName" : "simplePortal_ocean.usdz"
+  },
+  {
+    "libraryIdentifier" : "ab982ec8c665699c685fbb72045ac503",
+    "format" : "model",
+    "displayName" : "simplePortal_ocean.usdz"
+  },
+  {
+    "libraryIdentifier" : "aa5e097762883eb78b1e573def8b11e3",
+    "format" : "model",
+    "displayName" : "SpaceUmbrellas.usdz"
+  },
+  {
+    "libraryIdentifier" : "42c513411fbbfd7bcb3f7ca11d403341",
+    "format" : "model",
+    "displayName" : "SpaceUmbrellas.usdz"
+  },
+  {
+    "libraryIdentifier" : "b09c4a989ee858b3959b6fe755a5cd63",
+    "format" : "model",
+    "displayName" : "SpaceUmbrellas.usdz"
+  }
+]

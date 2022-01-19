@@ -8,18 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		BA44DF3D2798B79B00F21C68 /* arsimplepotalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA44DF3C2798B79B00F21C68 /* arsimplepotalApp.swift */; };
-		BA44DF3F2798B79B00F21C68 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA44DF3E2798B79B00F21C68 /* ContentView.swift */; };
 		BA44DF412798B79C00F21C68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA44DF402798B79C00F21C68 /* Assets.xcassets */; };
 		BA44DF442798B79C00F21C68 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA44DF432798B79C00F21C68 /* Preview Assets.xcassets */; };
+		BA44DF4C2798C71800F21C68 /* ARPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA44DF4B2798C71800F21C68 /* ARPortalView.swift */; };
+		BA44DF592798D8C800F21C68 /* SpaceUmbrellas.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = BA44DF582798D8C800F21C68 /* SpaceUmbrellas.rcproject */; };
+		BA44DF5B2798DB0000F21C68 /* SpaceXmas.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = BA44DF5A2798DB0000F21C68 /* SpaceXmas.rcproject */; };
+		BA44DF5D2798DB9800F21C68 /* SpaceNight.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = BA44DF5C2798DB9800F21C68 /* SpaceNight.rcproject */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BA44DF392798B79B00F21C68 /* arsimplepotal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = arsimplepotal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA44DF3C2798B79B00F21C68 /* arsimplepotalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arsimplepotalApp.swift; sourceTree = "<group>"; };
-		BA44DF3E2798B79B00F21C68 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BA44DF402798B79C00F21C68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA44DF432798B79C00F21C68 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BA44DF4A2798B7EA00F21C68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		BA44DF4B2798C71800F21C68 /* ARPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARPortalView.swift; sourceTree = "<group>"; };
+		BA44DF582798D8C800F21C68 /* SpaceUmbrellas.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = SpaceUmbrellas.rcproject; sourceTree = "<group>"; };
+		BA44DF5A2798DB0000F21C68 /* SpaceXmas.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = SpaceXmas.rcproject; sourceTree = "<group>"; };
+		BA44DF5C2798DB9800F21C68 /* SpaceNight.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = SpaceNight.rcproject; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +58,10 @@
 		BA44DF3B2798B79B00F21C68 /* arsimplepotal */ = {
 			isa = PBXGroup;
 			children = (
+				BA44DF4D2798C76000F21C68 /* Assets */,
 				BA44DF4A2798B7EA00F21C68 /* Info.plist */,
 				BA44DF3C2798B79B00F21C68 /* arsimplepotalApp.swift */,
-				BA44DF3E2798B79B00F21C68 /* ContentView.swift */,
+				BA44DF4B2798C71800F21C68 /* ARPortalView.swift */,
 				BA44DF402798B79C00F21C68 /* Assets.xcassets */,
 				BA44DF422798B79C00F21C68 /* Preview Content */,
 			);
@@ -67,6 +74,16 @@
 				BA44DF432798B79C00F21C68 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BA44DF4D2798C76000F21C68 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				BA44DF582798D8C800F21C68 /* SpaceUmbrellas.rcproject */,
+				BA44DF5A2798DB0000F21C68 /* SpaceXmas.rcproject */,
+				BA44DF5C2798DB9800F21C68 /* SpaceNight.rcproject */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,8 +156,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA44DF3F2798B79B00F21C68 /* ContentView.swift in Sources */,
+				BA44DF4C2798C71800F21C68 /* ARPortalView.swift in Sources */,
 				BA44DF3D2798B79B00F21C68 /* arsimplepotalApp.swift in Sources */,
+				BA44DF5D2798DB9800F21C68 /* SpaceNight.rcproject in Sources */,
+				BA44DF5B2798DB0000F21C68 /* SpaceXmas.rcproject in Sources */,
+				BA44DF592798D8C800F21C68 /* SpaceUmbrellas.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

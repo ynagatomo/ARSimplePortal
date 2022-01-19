@@ -1,0 +1,57 @@
+[
+  {
+    "libraryIdentifier" : "954a5921fabdbd8e826196e5b43caa35",
+    "format" : "model",
+    "displayName" : "simplePortal.usdz"
+  },
+  {
+    "libraryIdentifier" : "b290d417ce82c8775b6d0d647c44f7c6",
+    "format" : "model",
+    "displayName" : "simplePortal.usdz"
+  },
+  {
+    "libraryIdentifier" : "6d407a1a55f7cbd3ac16da9b6b5be013",
+    "format" : "model",
+    "displayName" : "simplePortal.usdz"
+  },
+  {
+    "libraryIdentifier" : "8585f5d4e4e5c011b213c36d93e433ef",
+    "format" : "model",
+    "displayName" : "simplePortal.usdz"
+  },
+  {
+    "libraryIdentifier" : "be7266a9ee206df11d8622e544cc540a",
+    "format" : "model",
+    "displayName" : "simplePortal_ocean.usdz"
+  },
+  {
+    "libraryIdentifier" : "ab982ec8c665699c685fbb72045ac503",
+    "format" : "model",
+    "displayName" : "simplePortal_ocean.usdz"
+  },
+  {
+    "libraryIdentifier" : "aa5e097762883eb78b1e573def8b11e3",
+    "format" : "model",
+    "displayName" : "SpaceUmbrellas.usdz"
+  },
+  {
+    "libraryIdentifier" : "46bcda5b007626034b9b4c5009ff7b73",
+    "format" : "model",
+    "displayName" : "SpaceXmas.usdz"
+  },
+  {
+    "libraryIdentifier" : "34b6324e5f67520528df732be1aed985",
+    "format" : "model",
+    "displayName" : "SpaceNight1.usdz"
+  },
+  {
+    "libraryIdentifier" : "c2cfb4034d23802dcbd9ff71510d2090",
+    "format" : "model",
+    "displayName" : "SpaceNight2.usdz"
+  },
+  {
+    "libraryIdentifier" : "895dde61d0dd2b4144f6f4e61d0b5bce",
+    "format" : "model",
+    "displayName" : "SpaceNight.usdz"
+  }
+]
