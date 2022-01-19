@@ -1,4 +1,4 @@
-# ARQLSanta
+# AR Simple Portal
 
 <!-- ![santaIcon_180](https://user-images.githubusercontent.com/66309582/146909908-cf5482f2-97c2-481c-8461-72729df2ef39.png) -->
 
